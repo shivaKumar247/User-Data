@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Lahiri",
+      "company": "excelr",
+      "email": "abcz@123.com",
+      "website": "www.excler-inc.com",
+      "phone": " 993423134",
+      "address": {
+        "street": "02",
+        "city": "hyderabad"
+      }
+    },
+    {
+      "id": "3",
+      "name": "sreya",
+      "company": "delta solutions",
+      "email": "abcz@123.com",
+      "website": "www.deltasolns.com",
+      "phone": " 993423134",
+      "address": {
+        "street": "02",
+        "city": "hyderabad"
+      }
+    },
+    {
+      "id": "4",
+      "name": "vamshi",
+      "company": "excelr",
+      "email": "abcz@123.com",
+      "website": "www.excler-inc.com",
+      "phone": " 993423134",
+      "address": {
+        "street": "02",
+        "city": "hyderabad"
+      }
+    },
+    {
+      "id": "5",
+      "name": "teja",
+      "company": "excelr",
+      "email": "teja_exlr@123.com",
+      "website": "www.excler-inc.com",
+      "phone": " 993423134",
+      "address": {
+        "street": "02",
+        "city": "hyderabad"
+      }
+    },
+    {
+      "id": "6",
+      "name": "shiva",
+      "company": "excelr",
+      "email": "abcz@123.com",
+      "website": "www.excler-inc.com",
+      "phone": " 993423134",
+      "address": {
+        "street": "02",
+        "city": "hyderabad"
+      }
+    },
+    {
+      "id": "7",
+      "name": "abhi",
+      "company": "excelr",
+      "email": "abcz@123.com",
+      "website": "www.excler-inc.com",
+      "phone": " 993423134",
+      "address": {
+        "street": "02",
+        "city": "hyderabad"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Naidu",
+      "company": "excelr",
+      "email": "abcz@123.com",
+      "website": "www.excler-inc.com",
+      "phone": " 993423134",
+      "address": {
+        "street": "02",
+        "city": "hyderabad"
+      }
+    },
+    {
+      "name": "lenin",
+      "id": "9",
+      "company": "excelr",
+      "email": "abcz@123.com",
+      "website": "www.excler-inc.com",
+      "phone": " 993423134",
+      "address": {
+        "street": "143",
+        "city": "delhi"
+      }
+    },
+    {
+      "id": "12",
+      "name": "ravi",
+      "company": "nova-solutions",
+      "email": "nuova@gmai.com",
+      "website": "www.novasolutions.com",
+      "phone": "5351683515",
+      "address": {
+        "street": "45",
+        "city": "adilabad"
+      }
+    },
+    {
+      "id": "32",
+      "name": "ravi",
+      "company": "IntrasoftIt Solutions",
+      "email": "ravi2132@gmai.com",
+      "website": "www.inrasoftIt.com",
+      "phone": "794586212",
+      "address": {
+        "street": "65",
+        "city": "kollapur"
+      }
+    }
+  ]
+}

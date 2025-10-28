@@ -1,0 +1,98 @@
+/* From Uiverse.io by alexmaracinaru */ 
+
+#new-user{
+  color: #3f79e6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 30px;
+}
+
+#new-user button{
+  color: aqua;
+  border-radius: 15px;
+  background-color: #e0e0e0;
+  box-shadow: 6px 8px 30px #bebebe,
+             -15px -15px 30px #ffffff;
+
+}
+
+
+.user{
+    display: flex;
+    min-width: 1188px;
+    padding: 30px 70px;
+    gap: 40px;
+    flex-direction: row;
+    flex-wrap: wrap;    
+}
+
+.cardContainer{
+  max-width: 300px;
+  /* height: 400px; */
+  background: white;
+  padding: .2em;
+  display: grid;
+  border-radius: 13px;
+  background: #e0e0e0;
+  box-shadow: 15px 15px 30px #bebebe,
+             -15px -15px 30px #ffffff;
+}
+
+.card-image {
+  background-color: rgb(236, 236, 236);
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 18px;
+}
+
+.card-image:hover {
+  transform: scale(0.98);
+   box-shadow: 0 2px 18px 0 rgba(0, 0, 0, 0.25);
+}
+
+#category {
+  text-transform: lowercase;
+  font-size: 0.3erm;
+  font-weight: 700;
+  color: #3f79e6;
+  padding: 0px 16px 0;
+}
+
+.category:hover {
+  cursor: pointer;
+}
+
+#heading {
+  font-weight: 500;
+  color: rgb(26, 23, 23);
+  line-height: 18px;
+  padding: 5px;
+  margin-top: -35px;
+}
+
+#heading:hover {
+  cursor: pointer;
+}
+
+.author {
+  color:  black;
+  font-weight: 400;
+  font-size: 11px;
+  padding-top: 20px;
+}
+
+.name {
+  font-weight: 600;
+}
+
+.name:hover {
+  cursor: pointer;
+}
+
+#actions button{
+    font-size: 16px;
+    gap: 10px;
+   margin-left: 11px;
+}
